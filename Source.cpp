@@ -1,8 +1,3 @@
-/*Lab Assignment_B.Green.cpp
-Bryce Green
-4/11/2021
-Version 1.0
-The program assigns multiple pointers as reference variables to x and manipulates the value assigned to the int variable x*/
 
 #include <iostream>
 using namespace std;
